@@ -46,10 +46,23 @@
 
 
 
+### An examination of teen drivers’ car-following behavior under naturalistic driving conditions: With and without an advanced driving
+assistance system
+----------
+#### Figures
 
+![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/013.jpg)
 
+### An integrated spatio-temporal approach to examine the consequences of driving under the influence (DUI) in crashes
 
+----------
+#### Figures
 
+![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/014.jpg)
+
+![Figure 2](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/015.jpg)
+
+![Figure 3](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/016.jpg)
 
 
 
