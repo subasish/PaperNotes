@@ -1,7 +1,7 @@
 # Real-world effects of rear cross-traffic alert on police-reported backing crashes
 
 ----------
-# Key Points
+# Figures
 
 - Objective: Several parking assistance systems are available to help drivers back up. Rear cross-traffic alert warns drivers when they are reversing and cross-traffic approaches the rear of their vehicle, as might happen when backing out of a perpendicular parking space in a lot. The goal of this study was to examine the effect of rear cross-traffic alert on backing crashes.
 - Methods: Negative binomial regression was used to compare police-reported backing crash rates in 25 U.S. states per insured vehicle year between General Motors and Mazda vehicles with rear cross-traffic alert and the same vehicle models without the optional system, controlling for the presence of other parking assistance systems and additional factors that may affect crash risk.
