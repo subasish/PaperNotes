@@ -19,4 +19,7 @@
 
  - Several technologies currently exist to assist drivers while backing, including rearview cameras, rear parking sensors that provide proxi- mity alerts, and rear automatic braking.
 
-![Figure 1](https://github.com/subasish/PaperNotes/tree/main/short_paper_notes/images/001.jpg)
+![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/master/short_paper_notes/images/001.jpg)
+
+
+
