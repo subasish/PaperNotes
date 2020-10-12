@@ -1,3 +1,9 @@
+### Election 2016
+----------
+#### Figures
+![Figure 0](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/000.jpg)
+
+
 ### A hierarchical bayesian peak over threshold approach for conflict-based before-after safety evaluation of leading pedestrian intervals
 
 ----------
@@ -31,6 +37,20 @@
 #### Figures
 ![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/010.jpg)
 ![Figure 2](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/011.jpg)
+
+
+### An energy loss-based vehicular injury severity model
+----------
+#### Figures
+![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/012.jpg)
+
+
+
+
+
+
+
+
 
 
 
