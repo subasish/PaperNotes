@@ -25,4 +25,12 @@
 ![Figure 5](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/009.jpg)
 
 
+### A copula-based approach for jointly modeling crash severity and number of vehicles involved in express bus crashes on expressways considering temporal stability of data
+
+----------
+#### Figures
+![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/010.jpg)
+![Figure 2](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/011.jpg)
+
+
 
