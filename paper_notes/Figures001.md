@@ -14,6 +14,15 @@
 ![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/004.jpg)
 
 
+### The novel approaches to classify cyclist accident injury-severity: Hybrid fuzzy decision mechanisms
+
+----------
+#### Figures
+![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/005.jpg)
+![Figure 2](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/006.jpg)
+![Figure 3](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/007.jpg)
+![Figure 4](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/008.jpg)
+![Figure 5](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/009.jpg)
 
 
 
