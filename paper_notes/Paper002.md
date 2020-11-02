@@ -15,7 +15,7 @@
 
 
 
-![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/short_paper_notes/images/018.jpg)
+![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/018.jpg)
 
 
 
