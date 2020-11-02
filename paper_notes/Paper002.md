@@ -17,6 +17,7 @@
 
 ![Figure 1](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/018.jpg)
 
+![Figure 2](https://raw.githubusercontent.com/subasish/PaperNotes/main/paper_notes/images/019.jpg)
 
 
 
